@@ -1,0 +1,9 @@
+yt_dlp
+numpy
+matplotlib
+torch
+scipy
+scikit-learn
+requests 
+notebook
+manim
