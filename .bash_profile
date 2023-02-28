@@ -10,3 +10,4 @@ export JAVA='java'
 PATH=$PATH:/home/jason/Projects/Plotter/upstream/include:/home/jason/Projects/Plotter/upstream/lib:/home/jason/Projects/Plotter/upstream/bin
 
 alias editor=gnome-text-editor
+. "$HOME/.cargo/env"
