@@ -7,3 +7,5 @@ scikit-learn
 requests 
 notebook
 manim
+pandas
+PyQt6
