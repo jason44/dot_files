@@ -1,13 +1,13 @@
-FREETYPE_PROPERTIES="cff:no-stem-darkening=0"
-GTK_USE_PORTAL=1
+SCREENSHOT_TOOL=spectacle
+export SCREENSHOT_TOOL=spectacle
 
-export EMSCRIPTEN_ROOT='/home/jason/Projects/Plotter/emscripten'
-export LLVM='home/jason/Projects/Plotter/upstream/bin'
-export LLVM_ROOT='/home/jason/Projects/Plotter/upstream/bin'
-export BINARYEN_ROOT='/home/jason/Projects/Plotter/upstream'
-export NODE_JS='/usr/bin/node'
-export JAVA='java'
-PATH=$PATH:/home/jason/Projects/Plotter/upstream/include:/home/jason/Projects/Plotter/upstream/lib:/home/jason/Projects/Plotter/upstream/bin
 
-alias editor=gnome-text-editor
+export SDL_VIDEODRIVER=wayland
+export PATH="$HOME/.local/bin:$PATH"
 . "$HOME/.cargo/env"
+
+export MOZ_ENABLE_WAYLAND=1
+
+
+alias code='code --enable-features=UseOzonePlatform --ozone-platform=wayland' 
+alias google-chrome-unstable='/usr/bin/google-chrome-unstable --enable-features=Vulkan'
