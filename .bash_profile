@@ -12,4 +12,4 @@ export MOZ_ENABLE_WAYLAND=1
 
 
 alias code='code --enable-features=UseOzonePlatform --ozone-platform=wayland' 
-alias google-chrome-unstable='/usr/bin/google-chrome-unstable --enable-features=Vulkan'
+alias google-chrome-unstable='google-chrome-unstable --enable-features=Vulkan'

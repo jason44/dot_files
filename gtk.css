@@ -1,0 +1,5 @@
+/* copy file to ~/.config/gtk-4.0/ and ~/.config/gtk-3.0/ */
+@import 'colors.css';
+
+/* specify font weight because gtk renders thinner fonts than qt */
+* { font-weight: 500; }
