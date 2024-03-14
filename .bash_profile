@@ -3,6 +3,8 @@ export SCREENSHOT_TOOL=spectacle
 
 
 export SDL_VIDEODRIVER=wayland
+export QT_QPA_PLATFORM=wayland
+
 export PATH="$HOME/.local/bin:$PATH"
 . "$HOME/.cargo/env"
 

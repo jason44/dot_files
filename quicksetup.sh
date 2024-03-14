@@ -2,9 +2,9 @@
 
 
 #libgtk-4-bin libgtk-4-1 libgtk-4-dev libgtk-4-media-streamer ffmpegthumbnailer
- sudo apt install ubuntu-desktop gnome-maps gnome-clocks gnome-weather gnome-calendar baobab gnome-tweaks gnome-extensions-app dconf-editor gnome-epub-thumbnailer
+# sudo apt install ubuntu-desktop gnome-maps gnome-clocks gnome-weather gnome-calendar baobab gnome-tweaks gnome-extensions-app dconf-editor gnome-epub-thumbnailer gnome-screenshot
 
-#sudo apt install kio-gdrive filelight fcitx5 kalendar kubuntu-desktop qbittorrent kde-config-flatpak
+sudo apt install kio-gdrive filelight fcitx5 kalendar kubuntu-desktop qbittorrent kde-config-flatpak
 
 #sudo apt install sway xdg-desktop-portal-wlr waybar wofi
 
