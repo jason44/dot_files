@@ -2,6 +2,7 @@
 @import 'colors.css';
 
 /* specify font weight because gtk renders thinner fonts than qt */
+/* * { font-weight: 600; } */
 * { font-weight: 500; }
 
 /* gtk renders fonts larger than qt 

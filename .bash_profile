@@ -1,5 +1,5 @@
-SCREENSHOT_TOOL=spectacle
-export SCREENSHOT_TOOL=spectacle
+#SCREENSHOT_TOOL=spectacle
+#export SCREENSHOT_TOOL=spectacle
 
 
 export SDL_VIDEODRIVER=wayland
@@ -14,3 +14,4 @@ export MOZ_ENABLE_WAYLAND=1
 alias code='code --enable-features=UseOzonePlatform --ozone-platform=wayland' 
 alias google-chrome-unstable='google-chrome-unstable --enable-features=Vulkan'
 alias screen='byobu-screen'
+alias ge='gnome-text-editor'

@@ -1,10 +1,12 @@
-#sudo apt install vim g++ gcc cmake clang meson sassc make ninja-build python3-pip python3 mpv xournalpp apt-file udf* libssl-dev git fonts-ibm-plex libgl-dev glslang-tools glslang-dev libcglm-dev libglm-dev valgrind net-tools openssh-client openssh-server sqlite3 libsqlite3-dev libgl1-mesa-dev libxrandr-dev bpython flatpak vulkan* aria2 libsdl2-dev libsdl2-2.0-0 libsdl2-image*  libsdl2-mixer-* clangd cppcheck dotnet-sdk-6.0 thunderbird python-is-python3 libglew-dev libc6-dev-i386 ffmpeg texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended texlive-science latexmk chktex filezilla qbittorrent unrar libpoppler-cpp-dev fzf doxygen openjdk-17-jdk openjdk-17-jre libavcodec-dev libavutil-dev libswresample-dev libavformat-dev python3-venv htop smartmontools mediainfo nvme-cli golang ubuntu-restricted-extras
+sudo apt install vim g++ gcc cmake clang meson sassc make ninja-build python3-pip python3 mpv xournalpp apt-file git valgrind net-tools openssh-client openssh-server sqlite3 bpython flatpak vulkan* aria2 libsdl2-dev libsdl2-2.0-0 libsdl2-image*  libsdl2-mixer-* clangd cppcheck dotnet-sdk-6.0 thunderbird python-is-python3 ffmpeg  filezilla qbittorrent unrar fzf doxygen openjdk-17-jdk openjdk-17-jre python3-venv htop smartmontools mediainfo nvme-cli golang ubuntu-restricted-extras flatpak libfuse2
+
+# texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended texlive-science latexmk chktex
 
 
 #libgtk-4-bin libgtk-4-1 libgtk-4-dev libgtk-4-media-streamer ffmpegthumbnailer
 # sudo apt install ubuntu-desktop gnome-maps gnome-clocks gnome-weather gnome-calendar baobab gnome-tweaks gnome-extensions-app dconf-editor gnome-epub-thumbnailer gnome-screenshot
 
-sudo apt install kio-gdrive filelight fcitx5 kalendar kubuntu-desktop qbittorrent kde-config-flatpak
+#sudo apt install kio-gdrive filelight fcitx5 kalendar kubuntu-desktop qbittorrent kde-config-flatpak
 
 #sudo apt install sway xdg-desktop-portal-wlr waybar wofi
 
