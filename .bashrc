@@ -105,9 +105,6 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
-# vscode alias for wayland
-alias code='code --ozone-platform-hint=auto --enable-features=WaylandWindowDecorations'
-
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
 # sources /etc/bash.bashrc).
@@ -120,4 +117,6 @@ if ! shopt -oq posix; then
 fi
 . "$HOME/.cargo/env"
 
+
+source $HOME/.bash_profile
 
