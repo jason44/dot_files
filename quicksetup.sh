@@ -1,4 +1,4 @@
-sudo apt install vim g++ gcc cmake clang meson sassc make ninja-build python3-pip python3 mpv xournalpp apt-file git valgrind net-tools openssh-client openssh-server sqlite3 bpython flatpak vulkan* aria2 libsdl2-dev libsdl2-2.0-0 libsdl2-image*  libsdl2-mixer-* clangd cppcheck dotnet-sdk-6.0 thunderbird python-is-python3 ffmpeg  filezilla qbittorrent unrar fzf doxygen openjdk-17-jdk openjdk-17-jre python3-venv htop smartmontools mediainfo nvme-cli golang ubuntu-restricted-extras flatpak libfuse2
+sudo apt install vim g++ gcc cmake clang meson sassc make ninja-build python3-pip python3 mpv xournalpp apt-file git valgrind net-tools openssh-client openssh-server sqlite3 bpython flatpak vulkan* aria2 libsdl2-dev libsdl2-2.0-0 libsdl2-image*  libsdl2-mixer-* clangd cppcheck dotnet-sdk-6.0 thunderbird python-is-python3 filezilla qbittorrent unrar fzf doxygen openjdk-17-jdk openjdk-17-jre python3-venv htop smartmontools mediainfo nvme-cli golang ubuntu-restricted-extras flatpak libfuse2 ffmpeg
 
 # texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-extra texlive-fonts-recommended texlive-science latexmk chktex
 

@@ -8,3 +8,8 @@
 /* gtk renders fonts larger than qt 
  * $ gsettings set org.gnome.desktop.interface text-scaling-factor 0.93 
  */
+
+/* remove window button backgrounds for libadwaita */
+windowcontrols button image:not(:hover) {
+    background-color: transparent;
+}
