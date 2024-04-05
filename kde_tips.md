@@ -10,6 +10,7 @@ qdbus-qt6 org.kde.KWin /KWin reconfigure
 
 # Notifications 
 * Show over fullscreen windows
+* Spectacle play sound
 
 # Spectacle
 * Copy to clipboard
