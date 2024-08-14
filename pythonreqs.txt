@@ -8,3 +8,4 @@ requests
 notebook
 pandas
 PyQt6
+openpyxl
