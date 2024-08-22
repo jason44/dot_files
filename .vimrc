@@ -12,3 +12,4 @@ set expandtab
 nnoremap <BS> x
 syntax on
 command W :execute ':silent w !sudo tee % > /dev/null' | :edit!
+set backspace=indent,eol,start
